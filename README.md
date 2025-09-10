@@ -16,7 +16,7 @@ It provides valuable insights for healthcare organizations, policymakers, and re
 - **Excel/CSV dataset** (mention source if available)
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](https://www.imglink.io/image/11836)
+(https://www.imglink.io/image/11836)
 
 ## 🔑 Key Insights
 - High-risk regions with maximum reported cases  
